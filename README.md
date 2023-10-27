@@ -11,4 +11,6 @@ Create gradient Rectangle by using <gradient> tag in <shape> tag for background 
 
 Add these all in project: <animation-list>, oneShot attribute, <set> tag, android:startOffset = 100, android:duration=1000, <scale> tag, <translate> tag, <rotate> tag, <alpha> tag
 
-![image](https://github.com/Vivekkanjiya/MAD_Practical_9_21012011037/assets/98510847/f644f4a7-4aa6-492a-a0d8-d29a94c115ee)
+![image](https://github.com/Vivekkanjiya/MAD_Practical_9_21012011037/assets/98510847/ba29aaa4-cdc1-4a86-8ca3-4d17fd1a5fee)
+
+![Untitled](https://github.com/Vivekkanjiya/MAD_Practical_9_21012011037/assets/98510847/f2591376-cd04-4cad-8a55-772bbe5aeede)
